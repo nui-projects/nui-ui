@@ -1,6 +1,7 @@
 {
   "name": "@nui/ui",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "NUI/UI is a ui library for react, Providing fast & smooth components that feels & looks like butter. Built on your favourite tool Tailwindcss.",
   "license": "Apache-2.0 OR MIT",
   "main": "src/index.ts",
   "files": [
@@ -20,6 +21,7 @@
     "typescript": "^5.0.0"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
