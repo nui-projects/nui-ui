@@ -1,0 +1,16 @@
+.nui-ui-btn-effx 
+{
+    z-index     : 1;
+
+    user-select : none;
+    cursor      : pointer;
+
+    position    : relative;
+}
+
+.nui-ui-btn-effx:is(:hover, :focus-within)
+{
+    background-color    : white !important;
+    background          : white !important;
+    color               : black !important;
+}

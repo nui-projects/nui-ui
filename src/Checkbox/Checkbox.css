@@ -1,0 +1,7 @@
+.nui-ui-checkbox-container
+{
+    width            : max-content;
+
+    min-height       : 16px;
+    max-height       : max-content;
+}
